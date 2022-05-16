@@ -8,8 +8,9 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 28
+    ndkVersion "19.2.5345600"
     defaultConfig {
-        applicationId "com.decred.dcrandroid"
+        applicationId "com.dcrnandroid"
         minSdkVersion 23
         targetSdkVersion 28
         versionCode 3

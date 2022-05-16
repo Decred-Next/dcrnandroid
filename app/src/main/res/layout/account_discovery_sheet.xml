@@ -38,14 +38,14 @@
         android:orientation="vertical"
         android:layout_marginTop="@dimen/margin_padding_size_24">
 
-        <com.dcrandroid.view.PasswordInput
+        <com.dcrnandroid.view.PasswordInput
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/margin_padding_size_8"
             android:id="@+id/resume_restore_pass"
             app:hint="@string/spending_password" />
 
-        <com.dcrandroid.view.PinView
+        <com.dcrnandroid.view.PinView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/resume_restore_pin"

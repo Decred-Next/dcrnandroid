@@ -32,7 +32,7 @@
         android:paddingEnd="0dp"
         android:orientation="horizontal">
 
-        <com.dcrandroid.view.PinView
+        <com.dcrnandroid.view.PinView
             android:id="@+id/pin_view"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

@@ -12,7 +12,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/colorBackground"
-    tools:context="com.dcrandroid.activities.LogViewer">
+    tools:context="com.dcrnandroid.activities.LogViewer">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
