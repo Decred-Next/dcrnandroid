@@ -294,7 +294,7 @@
     <string name="tx_details_account">%1$s DCR (%2$s)</string>
 
     <!--Landing page-->
-    <string name="welcome_android_title">Welcome to\nDecred Android Wallet</string>
+    <string name="welcome_android_title">Welcome to\nDecred-Next Android Wallet</string>
     <!--Landing page-->
 
     <!--Time-->
@@ -528,9 +528,9 @@
     <string name="migrating_wallet">Migrating wallet</string>
     <string name="add_new_wallet">Add new wallet</string>
     <string name="wait_for_sync">Wait for sync to complete</string>
-    <string name="welcome_title">Welcome to Decred Wallet.</string>
+    <string name="welcome_title">Welcome to Decred-Next Wallet.</string>
     <string name="first_run_notice">Your 33 word seed is your wallet, keep it safe. Without it your funds cannot be recovered should your device be lost or destroyed.\n\nInitial wallet sync will take longer than usual.</string>
-    <string name="welcome_screen_text">Welcome to Decred Wallet, a secure &amp; open-source mobile wallet.</string>
+    <string name="welcome_screen_text">Welcome to Decred-Next Wallet, a secure &amp; open-source mobile wallet.</string>
     <string name="mywallet">mywallet</string>
     <string name="today">Today</string>
     <string name="yesterday">Yesterday</string>
