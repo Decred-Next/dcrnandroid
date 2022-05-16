@@ -1,8 +1,8 @@
-# dcrandroid - Decred Mobile Wallet
+# dcrnandroid - Decred-Next Mobile Wallet
 
 [![Build and Test](https://github.com/planetdecred/dcrandroid/workflows/Build%20and%20Test/badge.svg)](https://github.com/planetdecred/dcrandroid/actions)
 
-A Decred Mobile Wallet for android that runs on top of [dcrwallet](https://github.com/decred/dcrwallet).
+A Decred-Next Mobile Wallet for android that runs on top of [dcrwallet](https://github.com/decred/dcrwallet).
 
 ## Requirements
 
