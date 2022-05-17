@@ -26,7 +26,7 @@
     <string name="connection">Conexión</string>
     <string name="testnet">testnet</string>
     <string name="general">General</string>
-    <string name="view_on_dcrdata">Ver en dcrdata</string>
+    <string name="view_on_dcrndata">Ver en dcrndata</string>
     <string name="default_account">Cuenta por defecto</string>
     <string name="exit_cap">SALIR</string>
     <string name="delete">Eliminar</string>

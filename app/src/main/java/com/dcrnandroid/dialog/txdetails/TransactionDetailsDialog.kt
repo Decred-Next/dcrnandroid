@@ -255,9 +255,9 @@ class TransactionDetailsDialog(val transaction: Transaction) : FullScreenBottomS
             }
             R.id.view_dcrdata -> {
                 val url = if (BuildConfig.IS_TESTNET) {
-                    "https://testnet.dcrdata.org/tx/" + transaction.hash
+                    "http://testdata.dcrn.xyz/tx/" + transaction.hash
                 } else {
-                    "https://explorer.dcrdata.org/tx/" + transaction.hash
+                    "http://data.dcrn.xyz/tx/" + transaction.hash
                 }
 
                 val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse(url))

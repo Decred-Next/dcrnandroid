@@ -35,8 +35,8 @@
     <string name="connection">Connection</string>
     <string name="testnet">testnet</string>
     <string name="general">General</string>
-    <string name="view_on_dcrdata">View on dcrdata</string>
-    <string name="https_docs_decred_org" translatable="false">https://docs.decred.org</string>
+    <string name="view_on_dcrndata">View on dcrndata</string>
+    <string name="https_docs_decred_org" translatable="false">http://dcrn.xyz</string>
     <string name="default_account">Default Account</string>
     <string name="exit_cap">EXIT</string>
     <string name="delete">Delete</string>
