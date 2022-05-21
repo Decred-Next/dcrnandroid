@@ -65,6 +65,8 @@ class RestoreWalletActivity : BaseActivity() {
         loadSeedSuggestions()
         val suggestionsAdapter = SuggestionsTextAdapter(this, R.layout.dropdown_item_1, allSeedWords)
 
+        val seeds = ArrayList<String>()
+        seeds.add("glucose")
         for (i in 0 until SEED_COUNT) {
             val layoutParams = LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT)
             val seedEditText = SeedEditTextLayout(this)
@@ -92,6 +94,8 @@ class RestoreWalletActivity : BaseActivity() {
 
                 }
             }
+
+            seedInputHelper.setSeed(seeds[i])
 
             seedInputHelperList.add(seedInputHelper)
         }

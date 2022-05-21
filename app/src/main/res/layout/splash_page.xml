@@ -27,7 +27,7 @@
             android:id="@+id/splashscreen_dcr_symbol"
             android:layout_width="160dp"
             android:layout_height="160dp"
-            app:srcCompat="@drawable/avd_anim" />
+            app:srcCompat="@mipmap/ic_launcher_foreground_mainnet" />
 
         <TextView
             android:id="@+id/tv_testnet"

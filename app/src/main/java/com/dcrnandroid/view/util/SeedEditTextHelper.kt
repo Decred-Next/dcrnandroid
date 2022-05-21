@@ -67,6 +67,7 @@ class SeedEditTextHelper(val layout: SeedEditTextLayout, adapter: SuggestionsTex
         get() = layout.bottom - context.resources.getDimensionPixelOffset(R.dimen.margin_padding_size_24)
 
     fun getSeed() = editText.text.toString().trim()
+    fun setSeed(seed: String) = editText.setText(seed)
 
     override fun onFocusChange(v: View?, hasFocus: Boolean) {
         var backgroundResource = R.drawable.input_background

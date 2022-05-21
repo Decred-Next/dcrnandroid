@@ -32,7 +32,7 @@
                 android:id="@+id/splashscreen_dcr_symbol"
                 android:layout_width="160dp"
                 android:layout_height="160dp"
-                android:src="@drawable/avd_anim" />
+                android:src="@mipmap/ic_launcher_foreground_mainnet" />
 
             <TextView
                 android:id="@+id/tv_testnet"

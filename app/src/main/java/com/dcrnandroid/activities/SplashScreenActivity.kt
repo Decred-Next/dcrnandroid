@@ -85,8 +85,8 @@ class SplashScreenActivity : BaseActivity() {
                     }, 750)
                 }
             })
-            splashscreen_dcr_symbol.setImageDrawable(symbolAnimation)
-            symbolAnimation?.start()
+//            splashscreen_dcr_symbol.setImageDrawable(symbolAnimation)
+//            symbolAnimation?.start()
         }
 
         startup()
